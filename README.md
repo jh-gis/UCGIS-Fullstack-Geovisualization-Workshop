@@ -8,6 +8,13 @@ This workshop will serve as an introductory technical training on full-stack geo
 
 This workshop is organized by Luyu Liu as a part of UCGIS workshop 2021 series on **Friday June 11, 2021, 2:00 - 4:00 pm EDT (11:00 am - 1:00 pm PDT)**.
 
+# Important Links
+- You can download the PowerPoint slides [here](doc/presentation.pptx).
+- You can find [a full prerequisites checklist walkthrough video here](https://www.youtube.com/playlist?list=PLVfGHTlLq7scaH6N7KkCprvwMsZGyB_jk).
+- The recording of the workshop can be found [here](https://www.youtube.com/watch?v=BEEc_jbamPY&t=10s).
+- The report I wrote after the workshop can be found [here](https://luyuliu.github.io/teaching/2021-UCGIS-workshop).
+
+
 # Prerequisites
 ## Skill Requirement
 - You should know the basic ideas of GIS, such as map, layer, and point/polyline/polygon.
